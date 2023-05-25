@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-hooks-useeffect/static/css/main.18bc2c8c.css",
+    "main.js": "/ra-hooks-useeffect/static/js/main.d7a5ac3e.js",
+    "index.html": "/ra-hooks-useeffect/index.html",
+    "main.18bc2c8c.css.map": "/ra-hooks-useeffect/static/css/main.18bc2c8c.css.map",
+    "main.d7a5ac3e.js.map": "/ra-hooks-useeffect/static/js/main.d7a5ac3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18bc2c8c.css",
+    "static/js/main.d7a5ac3e.js"
+  ]
+}
